@@ -134,6 +134,8 @@ public class LifeSecureLoginController {
 			model = new ModelAndView("verifyotp", "msg", "OTP is wrong");
 			return model;
 		}
+		
+		new method
 
 	}
 
