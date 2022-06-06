@@ -135,7 +135,6 @@ public class LifeSecureLoginController {
 			return model;
 		}
 		
-		new method
 
 	}
 
